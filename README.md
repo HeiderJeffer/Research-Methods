@@ -53,19 +53,19 @@ d.	Opinion paper
 ![image](https://user-images.githubusercontent.com/23063237/232809580-fab15f79-023f-4814-9bca-b394fe50d1a4.png)
 
 
-
-
-
 # Question and Answers
 
 - Question 1: Is it possible to use the industry 4.0 in developing countries?
-- Answer 1: Yes. Systems used industry 4.0 technologies to establish a lot of projects to help developing countries in the middle east, for example the airport control system in Lebanon. 
+
+Answer 1: Yes. Systems used industry 4.0 technologies to establish a lot of projects to help developing countries in the middle east, for example the airport control system in Lebanon. 
 
 - Question 2:  Smart city. Is there a way to implement the smart city approach to protect Iraqi borders from the external attacks and threats?
-- Answer 2: Yes, it is possible, for protecting and controlling the borders with Lebanon Syria and Israel, smart approaches can be used to minimize human involvement at threat-prone spots.
+
+Answer 2: Yes, it is possible, for protecting and controlling the borders with Lebanon Syria and Israel, smart approaches can be used to minimize human involvement at threat-prone spots.
 
 - Question 3:  Is it possible to use industry 4.0 technology to build secure communication in the army?
-- Answer 3:  Yes, using a lot of sensors and encrypted communication channels it is possible to use industry 4.0 technology to build secure communication in the army. 
+
+Answer 3:  Yes, using a lot of sensors and encrypted communication channels it is possible to use industry 4.0 technology to build secure communication in the army. 
 
 
 
