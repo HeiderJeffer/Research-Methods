@@ -37,8 +37,7 @@
 * Scientific papers less than 2 pages
 
 # List of papers
-at 
-
+at  https://github.com/HeiderJeffer/Project-for-Research-Methods/blob/main/List%20of%20papers.pdf
 
 # Classification scheme
 ## Research type: 
