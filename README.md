@@ -8,7 +8,7 @@ Document status: Proposed
 
 # Theme: Third World Developing Countries (Industry 4.0) 
 
-# Possible RQ:
+# Possible RQ
 
 - **RQ1:** How is Industry 4.0 changing the manufacturing landscape in
   third world developing countries?
@@ -339,15 +339,11 @@ African tale)</td>
 
 # Classification scheme
 
-## Research type: 
+## Research type
 
-1.  Evaluation research
-
-2.  Validation research
-
-3.  Solution proposal
-
-4.  Opinion paper
+| Evaluation research | Solution proposal |
+|---------------------|-------------------|
+| Validation research | Opinion paper     |
 
 ## Bubble plot 
 
@@ -356,24 +352,8 @@ style="width:5.60417in;height:4.08534in" />
 
 # Question and Answers
 
-- Question 1: Is it possible to use the industry 4.0 in developing
-  countries?  
-    
-  Answer 1: Yes. Systems used industry 4.0 technologies to establish a
-  lot of projects to help developing countries in the middle east, for
-  example the airport control system in Lebanon.
-
-- Question 2: Smart city. Is there a way to implement the smart city
-  approach to protect Iraqi borders from the external attacks and
-  threats?
-
-Answer 2: Yes, it is possible, for protecting and controlling the
-borders with Lebanon Syria and Israel, smart approaches can be used to
-minimize human involvement at threat-prone spots.
-
-- Question 3: Is it possible to use industry 4.0 technology to build
-  secure communication in the army?  
-    
-  Answer 3: Yes, using a lot of sensors and encrypted communication
-  channels it is possible to use industry 4.0 technology to build secure
-  communication in the army.
+| **Question**                                                                                                                    | **Answer**                                                                                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Is it possible to use the industry 4.0 in developing countries?                                                                 | Yes. Systems used industry 4.0 technologies to establish a lot of projects to help developing countries in the middle east, for example the airport control system in Lebanon.   |
+| Smart city. Is there a way to implement the smart city approach to protect Iraqi borders from the external attacks and threats? | Yes, it is possible, for protecting and controlling the borders with Lebanon Syria and Israel, smart approaches can be used to minimize human involvement at threat-prone spots. |
+| Is it possible to use industry 4.0 technology to build secure communication in the army?                                        | Yes, using a lot of sensors and encrypted communication channels it is possible to use industry 4.0 technology to build secure communication in the army.                        |
