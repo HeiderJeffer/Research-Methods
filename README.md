@@ -1,6 +1,6 @@
-Research Methods
+# Research Methods
 
-by Heider Jeffer  
+by Heider Jeffer hjeffer at unibz dot com  
 Supervisor Prof. Barbara Russo
 
 Date(s): 2018 January 10th  
@@ -10,20 +10,20 @@ Document status: Proposed
 
 # Possible RQ:
 
-1.  **RQ1:** How is Industry 4.0 changing the manufacturing landscape in
-    third world developing countries?
+- **RQ1:** How is Industry 4.0 changing the manufacturing landscape in
+  third world developing countries?
 
-2.  **RQ2:** What is the effect of Industry 4.0 on the environment in
-    developing countries?
+- **RQ2:** What is the effect of Industry 4.0 on the environment in
+  developing countries?
 
-3.  **RQ3:** How will Industry 4.0 affect the use of natural resources
-    in developing countries?
+- **RQ3:** How will Industry 4.0 affect the use of natural resources in
+  developing countries?
 
-4.  **RQ4:** What policies can help third world developing countries
-    take advantage of Industry 4.0?
+- **RQ4:** What policies can help third world developing countries take
+  advantage of Industry 4.0?
 
-5.  **RQ5:** What are the challenges faced by third world developing
-    countries in implementing Industry 4.0?
+- **RQ5:** What are the challenges faced by third world developing
+  countries in implementing Industry 4.0?
 
 ## Keywords:
 
@@ -32,21 +32,11 @@ challanges
 
 # Inclusion/Exclusion:
 
-- inclusion:
-
-  - Scientific papers published in journals/conferences
-
-  - Scientific papers accessible electronically
-
-  - Books
-
-- exclusion:
-
-  - Scientific papers not available in English
-
-  - Scientific papers less than 2 pages
-
-  - Wikipedia, YouTube, Facebook
+| **inclusion**                                       | **exclusion**                              |
+|-----------------------------------------------------|--------------------------------------------|
+| Scientific papers published in journals/conferences | Scientific papers not available in English |
+| Scientific papers accessible electronically         | Scientific papers less than 2 pages        |
+| Books                                               | Wikipedia, YouTube, Facebook               |
 
 # List of papers
 
@@ -362,28 +352,28 @@ African tale)</td>
 ## Bubble plot
 
 <img src="./images/media/image1.png"
-style="width:6.27778in;height:4.57639in" />
+style="width:5.60417in;height:4.08534in" />
 
 # Question and Answers
 
-- ***Question 1***: Is it possible to use the industry 4.0 in developing
+- **Question 1**: Is it possible to use the industry 4.0 in developing
   countries?
 
-***Answer 1:*** Yes. Systems used industry 4.0 technologies to establish
-a lot of projects to help developing countries in the middle east, for
+**Answer 1:** Yes. Systems used industry 4.0 technologies to establish a
+lot of projects to help developing countries in the middle east, for
 example the airport control system in Lebanon.
 
-- ***Question 2:*** Smart city. Is there a way to implement the smart
-  city approach to protect Iraqi borders from the external attacks and
+- **Question 2:** Smart city. Is there a way to implement the smart city
+  approach to protect Iraqi borders from the external attacks and
   threats?
 
-***Answer 2:*** Yes, it is possible, for protecting and controlling the
+**Answer 2:** Yes, it is possible, for protecting and controlling the
 borders with Lebanon Syria and Israel, smart approaches can be used to
 minimize human involvement at threat-prone spots.
 
-- ***Question 3:*** Is it possible to use industry 4.0 technology to
-  build secure communication in the army?  
-  ***  
-  Answer 3:*** Yes, using a lot of sensors and encrypted communication
+- **Question 3:** Is it possible to use industry 4.0 technology to build
+  secure communication in the army?  
+  **  
+  Answer 3:** Yes, using a lot of sensors and encrypted communication
   channels it is possible to use industry 4.0 technology to build secure
   communication in the army.
