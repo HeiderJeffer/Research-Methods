@@ -1,3 +1,7 @@
+# Research Methods
+
+# Theme: Third World Developing Countries (Industry 4.0)
+
 by
 
 Heider Jeffer
@@ -396,8 +400,7 @@ href="http://ieeexplore.ieee.org/document/577929/">http://ieeexplore.ieee.org/do
 ## Bubble plot
 
 <img src="./images/media/image1.png"
-style="width:5.99405in;height:4.32708in"
-alt="C:\Users\DELL\AppData\Local\Microsoft\Windows\INetCache\Content.Word\Bubbleplot.bmp" />
+style="width:6.27778in;height:4.57639in" />
 
 # Question and Answers
 
