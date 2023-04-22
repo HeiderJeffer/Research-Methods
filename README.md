@@ -1,11 +1,6 @@
-# Research Methods
+Research Methods
 
-# Theme: Third World Developing Countries (Industry 4.0)
-
-by
-
-Heider Jeffer
-
+by Heider Jeffer  
 Supervisor Prof. Barbara Russo
 
 Date(s): 2018 January 10th  
@@ -13,23 +8,27 @@ Document status: Proposed
 
 # Theme: Third World Developing Countries (Industry 4.0) 
 
-# How we use Industry 4.0 in third world developing countries (e.g. Iraq)
+# Possible RQ:
 
-# Question:
+1.  **RQ1:** How is Industry 4.0 changing the manufacturing landscape in
+    third world developing countries?
 
-1.  How do we use Industry 4.0 in third world countries (e.g Iraq)?
+2.  **RQ2:** What is the effect of Industry 4.0 on the environment in
+    developing countries?
+
+3.  **RQ3:** How will Industry 4.0 affect the use of natural resources
+    in developing countries?
+
+4.  **RQ4:** What policies can help third world developing countries
+    take advantage of Industry 4.0?
+
+5.  **RQ5:** What are the challenges faced by third world developing
+    countries in implementing Industry 4.0?
 
 ## Keywords:
 
-- Third World Countries
-
-- Cyber Physical Systems
-
-- Indstrial Technology
-
-- Manfucturing
-
-- Industry 4.0
+developing countries, Industry 4.0, natural resources, policy,
+challanges
 
 # Inclusion/Exclusion:
 
@@ -41,24 +40,22 @@ Document status: Proposed
 
   - Books
 
-  - Case studies
-
 - exclusion:
-
-  - Slides, websites, blogs
 
   - Scientific papers not available in English
 
   - Scientific papers less than 2 pages
 
+  - Wikipedia, YouTube, Facebook
+
 # List of papers
 
 <table>
 <colgroup>
-<col style="width: 9%" />
-<col style="width: 39%" />
-<col style="width: 39%" />
-<col style="width: 11%" />
+<col style="width: 5%" />
+<col style="width: 66%" />
+<col style="width: 21%" />
+<col style="width: 5%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -74,8 +71,7 @@ Document status: Proposed
 <td>Communication middleware technologies for industrial distributed
 control systems: A literature review</td>
 <td>Industry 4.0, Industrial technology (Validation research)</td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8247730/">http://ieeexplore.ieee.org/document/8247730/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8247730/">Link</a></td>
 </tr>
 <tr class="even">
 <td>2.</td>
@@ -83,8 +79,7 @@ href="http://ieeexplore.ieee.org/document/8247730/">http://ieeexplore.ieee.org/d
 sensing network and Cloud Computing technologies</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/6899471/">http://ieeexplore.ieee.org/document/6899471/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/6899471/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>3.</td>
@@ -92,16 +87,14 @@ href="http://ieeexplore.ieee.org/document/6899471/">http://ieeexplore.ieee.org/d
 review and platform for industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7093910/">http://ieeexplore.ieee.org/document/7093910/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7093910/">Link</a></td>
 </tr>
 <tr class="even">
 <td>4.</td>
 <td>Intelligent manufacturing — Chinese industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7285366/">http://ieeexplore.ieee.org/document/7285366/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7285366/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>5.</td>
@@ -109,8 +102,7 @@ href="http://ieeexplore.ieee.org/document/7285366/">http://ieeexplore.ieee.org/d
 manufacture perspective</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7313954/">http://ieeexplore.ieee.org/document/7313954/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7313954/">Link</a></td>
 </tr>
 <tr class="even">
 <td>6.</td>
@@ -119,8 +111,7 @@ unveil the potential of Industry 4.0: How location and time can support
 smart manufacturing Sign In or Purchase</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7347812/">http://ieeexplore.ieee.org/document/7347812/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7347812/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>7.</td>
@@ -128,8 +119,7 @@ href="http://ieeexplore.ieee.org/document/7347812/">http://ieeexplore.ieee.org/d
 Digitisation]</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7590517/">http://ieeexplore.ieee.org/document/7590517/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7590517/">Link</a></td>
 </tr>
 <tr class="even">
 <td>8.</td>
@@ -137,8 +127,7 @@ href="http://ieeexplore.ieee.org/document/7590517/">http://ieeexplore.ieee.org/d
 Demonstration Production Line</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7780224/">http://ieeexplore.ieee.org/document/7780224/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7780224/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>9.</td>
@@ -146,8 +135,7 @@ href="http://ieeexplore.ieee.org/document/7780224/">http://ieeexplore.ieee.org/d
 Manufacturing</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7816745/">http://ieeexplore.ieee.org/document/7816745/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7816745/">Link</a></td>
 </tr>
 <tr class="even">
 <td>10.</td>
@@ -155,8 +143,7 @@ href="http://ieeexplore.ieee.org/document/7816745/">http://ieeexplore.ieee.org/d
 The next forward leap to Industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Validation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7822298/">http://ieeexplore.ieee.org/document/7822298/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7822298/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>11.</td>
@@ -164,8 +151,7 @@ href="http://ieeexplore.ieee.org/document/7822298/">http://ieeexplore.ieee.org/d
 of Industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7750610/">http://ieeexplore.ieee.org/document/7750610/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7750610/">Link</a></td>
 </tr>
 <tr class="even">
 <td>12.</td>
@@ -173,8 +159,7 @@ href="http://ieeexplore.ieee.org/document/7750610/">http://ieeexplore.ieee.org/d
 context of Industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8053743/">http://ieeexplore.ieee.org/document/8053743/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8053743/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>13.</td>
@@ -183,8 +168,7 @@ simulation of an induction heating process for aluminium-steel molds in
 footwear soles manufacturing</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8065972/">http://ieeexplore.ieee.org/document/8065972/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8065972/">Link</a></td>
 </tr>
 <tr class="even">
 <td>14.</td>
@@ -193,8 +177,7 @@ href="http://ieeexplore.ieee.org/document/8065972/">http://ieeexplore.ieee.org/d
 On</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8119409/">http://ieeexplore.ieee.org/document/8119409/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8119409/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>15.</td>
@@ -202,16 +185,14 @@ href="http://ieeexplore.ieee.org/document/8119409/">http://ieeexplore.ieee.org/d
 Industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8119410/">http://ieeexplore.ieee.org/document/8119410/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8119410/">Link</a></td>
 </tr>
 <tr class="even">
 <td>16.</td>
 <td>Big Data in Wisdom Manufacturing for Industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8119375/">http://ieeexplore.ieee.org/document/8119375/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8119375/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>17.</td>
@@ -220,8 +201,7 @@ monitoring and analysis for industry 4.0 implementation on aerospace
 component manufacturing</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8121928/">http://ieeexplore.ieee.org/document/8121928/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8121928/">Link</a></td>
 </tr>
 <tr class="even">
 <td>18.</td>
@@ -229,8 +209,7 @@ href="http://ieeexplore.ieee.org/document/8121928/">http://ieeexplore.ieee.org/d
 industry 4.0</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8203896/">http://ieeexplore.ieee.org/document/8203896/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8203896/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>19.</td>
@@ -238,17 +217,15 @@ href="http://ieeexplore.ieee.org/document/8203896/">http://ieeexplore.ieee.org/d
 manufacturing system in the industry 4.0 environment</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8248101/">http://ieeexplore.ieee.org/document/8248101/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8248101/">Link</a></td>
 </tr>
 <tr class="even">
 <td>20.</td>
-<td>Intelligent sensing for robotic re-manufacturing in aerospace — An
+<td>Intelligent sensing for robotic re-manufacturing in aerospace. An
 industry 4.0 design based prototype</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8250134/">http://ieeexplore.ieee.org/document/8250134/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8250134/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>21.</td>
@@ -256,16 +233,14 @@ href="http://ieeexplore.ieee.org/document/8250134/">http://ieeexplore.ieee.org/d
 4.0: 360 Degree Comparison</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8258937/">http://ieeexplore.ieee.org/document/8258937/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8258937/">Link</a></td>
 </tr>
 <tr class="even">
 <td>22.</td>
 <td>Industry 4.0: Advances of Germany's manufacturing innovation</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8256152/">http://ieeexplore.ieee.org/document/8256152/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8256152/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>23.</td>
@@ -273,16 +248,14 @@ href="http://ieeexplore.ieee.org/document/8256152/">http://ieeexplore.ieee.org/d
 Process</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Validation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7272683/">http://ieeexplore.ieee.org/document/7272683/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7272683/">Link</a></td>
 </tr>
 <tr class="even">
 <td>24.</td>
 <td>Selection of a data exchange format for industry 4.0 manufacturing
 systems</td>
 <td>Industry 4.0, Manufacturing (Evaluation research)</td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7793750/">http://ieeexplore.ieee.org/document/7793750/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7793750/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>25.</td>
@@ -290,8 +263,7 @@ href="http://ieeexplore.ieee.org/document/7793750/">http://ieeexplore.ieee.org/d
 manufacturing models with small quantities and great variety</td>
 <td><p>Industry 4.0, Manufacturing</p>
 <p>(Evaluation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7988251/">http://ieeexplore.ieee.org/document/7988251/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7988251/">Link</a></td>
 </tr>
 <tr class="even">
 <td>26.</td>
@@ -299,8 +271,7 @@ href="http://ieeexplore.ieee.org/document/7988251/">http://ieeexplore.ieee.org/d
 4.0-aligned cyber-physical production systems</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8247702/">http://ieeexplore.ieee.org/document/8247702/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8247702/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>27.</td>
@@ -308,16 +279,14 @@ href="http://ieeexplore.ieee.org/document/8247702/">http://ieeexplore.ieee.org/d
 industry</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Validation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8104778/">http://ieeexplore.ieee.org/document/8104778/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8104778/">Link</a></td>
 </tr>
 <tr class="even">
 <td>28.</td>
 <td>Cyber physical systems in the context of Industry 4.0</td>
 <td>Industry 4.0, Cyber Physical Systems<br />
 (Evaluation research)</td>
-<td><a
-href="http://ieeexplore.ieee.org/document/6857843/">http://ieeexplore.ieee.org/document/6857843/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/6857843/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>29.</td>
@@ -325,8 +294,7 @@ href="http://ieeexplore.ieee.org/document/6857843/">http://ieeexplore.ieee.org/d
 equipments detection system</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7757942/">http://ieeexplore.ieee.org/document/7757942/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7757942/">Link</a></td>
 </tr>
 <tr class="even">
 <td>30.</td>
@@ -334,8 +302,7 @@ href="http://ieeexplore.ieee.org/document/7757942/">http://ieeexplore.ieee.org/d
 smart factories</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/7988589/">http://ieeexplore.ieee.org/document/7988589/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/7988589/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>31.</td>
@@ -343,8 +310,7 @@ href="http://ieeexplore.ieee.org/document/7988589/">http://ieeexplore.ieee.org/d
 the context of Industry 4.0</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Validation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8000159/">http://ieeexplore.ieee.org/document/8000159/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8000159/">Link</a></td>
 </tr>
 <tr class="even">
 <td>32.</td>
@@ -353,8 +319,7 @@ simulation of an induction heating process for aluminium-steel molds in
 footwear soles manufacturing</td>
 <td><p>Industry 4.0, Cyber Physical Systems</p>
 <p>(Validation research)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/8065972/">http://ieeexplore.ieee.org/document/8065972/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/8065972/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>33.</td>
@@ -363,24 +328,21 @@ countries: spectrum allocation issues, network and economic growth (the
 African tale)</td>
 <td><p>Industry 4.0, Third World Countries</p>
 <p>Evaluation research</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/1542618/">http://ieeexplore.ieee.org/document/1542618/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/1542618/">Link</a></td>
 </tr>
 <tr class="even">
 <td>34.</td>
 <td>Third World electrification (with Industry 4.0)</td>
 <td><p>Industry 4.0, Third World Countries</p>
 <p>(Solution proposal)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/4648541/">http://ieeexplore.ieee.org/document/4648541/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/4648541/">Link</a></td>
 </tr>
 <tr class="odd">
 <td>35.</td>
-<td>Is Remote Sensing An Economic Tool In Third World Countries?</td>
+<td>Is Remote Sensing an Economic Tool In Third World Countries?</td>
 <td><p>Industry 4.0, Third World Countries</p>
 <p>(Opinion paper)</p></td>
-<td><a
-href="http://ieeexplore.ieee.org/document/577929/">http://ieeexplore.ieee.org/document/577929/</a></td>
+<td><a href="http://ieeexplore.ieee.org/document/577929/">Link</a></td>
 </tr>
 </tbody>
 </table>
