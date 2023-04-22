@@ -60,7 +60,8 @@ challanges
 <td>1.</td>
 <td>Communication middleware technologies for industrial distributed
 control systems: A literature review</td>
-<td>Industry 4.0, Industrial technology (Validation research)</td>
+<td>Industry 4.0, Industrial technology<br />
+(Validation research)</td>
 <td><a href="http://ieeexplore.ieee.org/document/8247730/">Link</a></td>
 </tr>
 <tr class="even">
