@@ -349,31 +349,31 @@ African tale)</td>
 
 4.  Opinion paper
 
-## Bubble plot
+## Bubble plot 
 
 <img src="./images/media/image1.png"
 style="width:5.60417in;height:4.08534in" />
 
 # Question and Answers
 
-- **Question 1**: Is it possible to use the industry 4.0 in developing
+- Question 1: Is it possible to use the industry 4.0 in developing
   countries?
 
-**Answer 1:** Yes. Systems used industry 4.0 technologies to establish a
-lot of projects to help developing countries in the middle east, for
-example the airport control system in Lebanon.
+- Answer 1: Yes. Systems used industry 4.0 technologies to establish a
+  lot of projects to help developing countries in the middle east, for
+  example the airport control system in Lebanon.
 
-- **Question 2:** Smart city. Is there a way to implement the smart city
+- Question 2: Smart city. Is there a way to implement the smart city
   approach to protect Iraqi borders from the external attacks and
   threats?
 
-**Answer 2:** Yes, it is possible, for protecting and controlling the
-borders with Lebanon Syria and Israel, smart approaches can be used to
-minimize human involvement at threat-prone spots.
+- Answer 2: Yes, it is possible, for protecting and controlling the
+  borders with Lebanon Syria and Israel, smart approaches can be used to
+  minimize human involvement at threat-prone spots.
 
-- **Question 3:** Is it possible to use industry 4.0 technology to build
+- Question 3: Is it possible to use industry 4.0 technology to build
   secure communication in the army?  
-  **  
-  Answer 3:** Yes, using a lot of sensors and encrypted communication
+    
+  Answer 3: Yes, using a lot of sensors and encrypted communication
   channels it is possible to use industry 4.0 technology to build secure
   communication in the army.
